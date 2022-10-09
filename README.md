@@ -5,7 +5,7 @@
 
 <br/>
 
-## 1.  Calculator App:
+## 1.  Calculator App: :ballot_box_with_check:
       
       
 Build a simple calculator app which performs simple arithmetic operations such as addition, subtraction, multiplication and division.

@@ -1,4 +1,4 @@
-# Calculator App :ballot_box_with_check:
+# Calculator App 
       
       
 **Build a simple calculator app which performs simple arithmetic operations such as addition, subtraction, multiplication and division.**
